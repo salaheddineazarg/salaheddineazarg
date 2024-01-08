@@ -1,44 +1,41 @@
-version: "08.01.2024"
-
+# Personal Information
 full_name: Salah Eddine AZARG
+location: Morocco🇲🇦
 
-location: [Morocco🇲🇦]
-
+# Hobbies
 hobbies:
     - Football⚽
     - Traveling🌏
-    - Runing 🏃
+    - Running 🏃
 
+# Contacts
 contacts:
     email: salahazarag17@gmail.com
     linkedin: salaheddineazarg
 
+# Services
 services:
     programming:
-        programming languages:
+        programming_languages:
             - Java
             - Typescript
             - Javascript
             - Php
-        web frameworks:
+        web_frameworks:
             - Springboot
             - Angular
             - Vue
             - Laravel
             - TailwindCss
             - Bootstrap
-            
         databases:
             - PostgreSql
             - Mysql
-            
         tools:
             - Docker
             - Jira
             - Git
             - Github
-            
         architectures:
             - MVC
             - Rest Api
-    
