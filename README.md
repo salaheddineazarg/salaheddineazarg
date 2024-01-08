@@ -1,7 +1,5 @@
 version: "08.01.2024"
-
 full_name: Salah Eddine AZARG
-
 location:
   - Morocco🇲🇦
 hobbies:
@@ -18,7 +16,6 @@ services:
       - Typescript
       - Javascript
       - Php
-      
     web frameworks:
       - Springboot
       - Angular
@@ -26,17 +23,14 @@ services:
       - Laravel
       - TailwindCss
       - Bootstrap
-      
     databases:
       - PostgreSql
       - Mysql
-      
     tools:
       - Docker
       - Jira
       - Git
       - Github
-      
     architectures:
       - MVC
       - Rest Api
