@@ -1,7 +1,6 @@
 version: "08.01.2024"
 full_name: Salah Eddine AZARG
-location:
-  - Morocco🇲🇦
+location: [Morocco🇲🇦]
 hobbies:
   - Football⚽
   - Traveling🌏
