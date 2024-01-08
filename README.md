@@ -1,16 +1,44 @@
-### Hi there 👋
+version: "08.01.2024"
 
-<!--
-**salaheddineazarg/salaheddineazarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+full_name: Salah Eddine AZARG
 
-Here are some ideas to get you started:
+location: [Morocco🇲🇦]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hobbies:
+    - Football⚽
+    - Traveling🌏
+    - Runing 🏃
+
+contacts:
+    email: salahazarag17@gmail.com
+    linkedin: salaheddineazarg
+
+services:
+    programming:
+        programming languages:
+            - Java
+            - Typescript
+            - Javascript
+            - Php
+        web frameworks:
+            - Springboot
+            - Angular
+            - Vue
+            - Laravel
+            - TailwindCss
+            - Bootstrap
+            
+        databases:
+            - PostgreSql
+            - Mysql
+            
+        tools:
+            - Docker
+            - Jira
+            - Git
+            - Github
+            
+        architectures:
+            - MVC
+            - Rest Api
+    
