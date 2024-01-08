@@ -4,16 +4,13 @@ full_name: Salah Eddine AZARG
 
 location:
   - Morocco🇲🇦
-  - 
 hobbies:
   - Football⚽
   - Traveling🌏
   - Runing 🏃
-  - 
 contacts:
   email: salahazarag17@gmail.com
   linkedin: salaheddineazarg
-
 services:
   programming:
     programming languages:
